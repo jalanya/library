@@ -1,0 +1,22 @@
+{
+  "name": "library",
+  "description": "Library Web App",
+  "main": "app.js",
+  "authors": [
+    "Jose Alanya"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/jalanya/library",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.6.3"
+  }
+}
